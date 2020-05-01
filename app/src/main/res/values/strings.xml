@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">App</string>
+
+    <string name="menu_title">Menu</string>
+    <string name="title_desktop">Desktop</string>
+    <string name="title_setting">Settings</string>
+    <string name="title_about">About</string>
+    <string name="open_action">open</string>
+    <string name="close_action">close</string>
+    <string name="title_default">Title</string>
+
+    <string name="sample_title">What is Coding</string>
+    <string name="sample_text">You’ve heard tons about coding and know that it has to do with computers and they process the information we see.
+        However, you may not have much more than this vague understanding of the concept.
+        Don’t feel bad. Many people don’t really understand it, though we all depend on the fundamentals of code each and every day.
+        It’s such an important aspect of the technological landscape that President Obama has unveiled a new initiative called “Computer Science for All” that has been backed by and invested in by big names, including the Turner Broadcasting Network.
+        The President’s movement is one that mirrors that of our national’s schools that have been emphasizing the value of technology, computer science, engineering and other STEM related topics.
+        Read on to discover what computer code is and why it is of such importance in today’s society.\n\n
+        For example, whether it’s for personal or professional use, more and more people are writing blogs and creating websites to share their message or skills with the world. Being able to understand basic code would allow you to make tweaks to the design of your site without having to pay a webmaster to do it for you or to wait for someone from IT to take care of the ticket you submitted ages ago. A knowledge of code can take you even further if you decide to pursue it. Some in-depth study will provide you with the skills to build a website to your own specifications and to fit your desired needs.
+        If you find you have a passion for technology and a talent for navigating the in-depth nature of computer languages, you could go on to become a professional coder and work for a tech company or even start your own business venture or launch a best-selling idea. The job market is opening up for technologically savvy professionals.
+        Having a basic knowledge of coding can simply help you to have a better understanding of how the technology you use every day works. It’s an empowering feeling.
+    </string>
+    <string name="sample_foot">class HelloWorld {\n\tpublic static void main(String[] args) {\n\t\tSystem.out.println(\"Hello, World!\");\n\t}\n}</string>
+
+</resources>
